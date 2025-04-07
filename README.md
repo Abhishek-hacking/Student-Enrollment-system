@@ -72,7 +72,7 @@ Database Setup:
 
 Running the Application:
 To run the application, use the following command:
-flask run
+flask run now
 You can access the application at http://127.0.0.1:5000/.
 
 Usage:
